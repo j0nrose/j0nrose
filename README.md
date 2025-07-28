@@ -5,7 +5,7 @@ Jonathan
 I am a full-stack developer, web developer, and software engineer.
 
 <p>
-Website: https://j0nrose.github.io
+Website: j0nrose.github.io
 </p>
 
 Languages and Tools
