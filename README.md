@@ -2,7 +2,7 @@ Jonathan
 
 **`Web Developer Software Engineer`**
 
-I am a full-stack developer, software engineer, and web developer.
+I am a full-stack web developer and software engineer.
 
 <p>
 https://j0nrose.github.io
